@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Keep .gitignore
+!.gitignore
+
+# Allow traversal into Army
+!02 Army/
+
+# Allow only JCHK inside Army
+!02 Army/JCHK/
+!02 Army/JCHK/**
